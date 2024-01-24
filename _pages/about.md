@@ -19,4 +19,3 @@ Welcome to my website!
 
 I am a graduate student at Peking University under the supervision of Professor Ke Wang. This year, I work as a joint PhD student at the Max Planck Institute for Astronomy in Heidelberg/Germany, and my local supervisor is Professor Henrik Beuther. I have a wide interest in the study of high-mass star formation, including their physical, dynamical, chemical, and magnetic properties.
 
-To be continued...
